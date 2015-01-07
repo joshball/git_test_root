@@ -3,4 +3,4 @@ var myStPlugin = require('../plugins/my_st_plugin/lib/plugin');
 
 
 console.log('This is main.js');
-myStPlugin.log();
+myStPlugin.log('yada');
