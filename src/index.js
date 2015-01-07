@@ -7,3 +7,4 @@ myStPlugin.log('yada');
 myStPlugin.log('bing!');
 myStPlugin.info();
 myStPlugin.warn();
+myStPlugin.a();
