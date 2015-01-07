@@ -24,6 +24,12 @@ module.exports = {
 	f: function(){
 		console.log('adding an F func');
 	},
+	g: function(){
+		console.log('adding an G func');
+	},
+	h: function(){
+		console.log('adding an H func');
+	},
 	info: function(){
 		console.log('This plugin is awesome!');
 	},
