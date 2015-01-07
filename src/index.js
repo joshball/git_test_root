@@ -1,3 +1,6 @@
 'use strict';
+var myStPlugin = require('../plugins/my_st_plugin/lib/plugin');
 
-console.log('main.js!');
+
+console.log('This is main.js');
+myStPlugin.log();
