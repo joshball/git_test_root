@@ -6,3 +6,4 @@ console.log('This is main.js');
 myStPlugin.log('yada');
 myStPlugin.log('bing!');
 myStPlugin.info();
+myStPlugin.warn();
